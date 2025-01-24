@@ -11,6 +11,6 @@ function toggleMenu(){
         nav.style.display = 'block';
 
     } else{
-        nav.Style.display = 'none';
+        nav.style.display = 'none';
     }
 }
